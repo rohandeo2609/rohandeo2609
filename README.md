@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohan Nilesh Deo
 
-<!--
-**rohandeo2609/rohandeo2609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year Engineering Student  
+🤖 Aspiring **AI/ML Engineer** (also exploring DevOps)
 
-Here are some ideas to get you started:
+> just another coder overwhelmed by the vastness of the field
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- Engineering student navigating a huge and ever-growing tech landscape  
+- Exploring **AI/ML**, **DevOps**, and backend development  
+- Learning by doing, breaking things, fixing them, and repeating  
+- Not claiming mastery — just showing up consistently
+
+Still exploring. Still grinding.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+</p>
+
+### Web & Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
+</p>
+
+### Databases & Cloud
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening programming fundamentals  
+- Exploring **AI & Machine Learning**
+- Backend development with Java & Spring Boot  
+- Slowly stepping into **DevOps concepts and tooling**
+
+No rush. No shortcuts.
+
+---
+
+## 📫 Connect With Me
+
+- 📸 Instagram:  
+- 🐦 Twitter / X:  
+- 📧 Email:  
+
+---
+
+## 🚧 Status
+
+This GitHub is a **work in progress**, just like me.  
+Projects, experiments, and learning logs will keep landing here.
