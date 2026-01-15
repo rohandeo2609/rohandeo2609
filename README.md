@@ -58,8 +58,10 @@ No rush. No shortcuts.
 ## 📫 Connect With Me
 
 - 📸 Instagram:  
-- 🐦 Twitter / X:  
-- 📧 Email:  
+- 🐦 Twitter / X: x.com/RohanDeo26
+- 📧 Email: rohandeo2609@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/rohandeo4693
+
 
 ---
 
